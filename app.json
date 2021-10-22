@@ -136,6 +136,11 @@
          "required": false,
          "value": ""
       },
+      "INFOPIC": {
+         "description": "Don't Change",
+         "required": true,
+         "value": "True"
+      },
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
          "value": "True"
