@@ -1,5 +1,5 @@
 {
-      "name": "EmiliaBot",
+      "name": "ShoyoBot",
       "description": "An Anime themed Telegram group management bot.",
       "logo": "https://telegra.ph/file/3cf1be03a3b1653cc98d1.jpg", 
       "keywords": [
@@ -9,7 +9,7 @@
          "manager",
          "Emilia"
       ],   
-   "repository": "https://github.com/IzumiCypherX/EmiliaAnimeBot",
+   "repository": "https://github.com/tobio-shoyo/SHOYO-BOT",
    "addons": [
       {
          "options": {
