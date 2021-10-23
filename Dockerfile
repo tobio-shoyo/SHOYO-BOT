@@ -64,7 +64,7 @@ RUN apt update && apt upgrade -y && \
 # Pypi package Repo upgrade
 RUN pip3 install --upgrade pip setuptools
 
-RUN git clone -b Stable https://github.com/tobio-shoyo/ShoyoBOT /app
+RUN git clone -b main https://github.com/tobio-shoyo/ShoyoBOT /app
 WORKDIR /app
 
 COPY ./ShoyoBOT/sample_config.py ./ShoyoBOT/config.py* /app/ShoyoBOT/
